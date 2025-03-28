@@ -1,0 +1,560 @@
+SEO UPDATE LOG - 2025-03-26 04:06:46
+================================================================================
+
+Total products processed: 50
+Successful updates: 0
+Failed updates: 50
+Execution time: 0:00:29.228242
+
+FAILED PRODUCTS:
+================================================================================
+1. Product: Supernova Volume Lip Gloss - N 06 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+2. Product: Velvet Smokey Eye Pencil - N 04 - Brown (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+3. Product: Velvet Smokey Eye Pencil - N 05 - Antrasit (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+4. Product: Velvet Smokey Eye Pencil - N 06 - Green (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+5. Product: Velvet Smokey Eye Pencil - N 07 - Navy Bleu (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+6. Product: Lip Brush - F 17 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+7. Product: Maestro Academy Mineralist Contouring Powder - 001 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+8. Product: Maestro Academy Mineralist Contouring Powder - 002 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+9. Product: Perfect Waterproof Lipliner - N 3 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+10. Product: Perfective Loose Powder - N 101 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+11. Product: Perfective Loose Powder - N 102 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+12. Product: Perfective Loose Powder - N 103 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+13. Product: Perfective Loose Powder - N 104 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+14. Product: Eyebrow Pencil - 005 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+15. Product: Focus Point Matte Lip Paint - N 13 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+16. Product: Focus Point Matte Lip Paint - N 14 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+17. Product: Focus Point Perfect Gleam Lipgloss - 104 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+18. Product: Focus Point Perfect Gleam Lipgloss - 106 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+19. Product: Focus Point Perfect Gleam Lipgloss - 115 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+20. Product: Instyle Blush On Blusher - N 6 - Pearl (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+21. Product: Instyle Extreme Matte Lip Paint - N 017 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+22. Product: Instyle Extreme Matte Lip Paint - N 30 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+23. Product: Instyle Eyebrow Mascara - N 05 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+24. Product: Instyle Eyebrow Mascara - N 3 - Auburn (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+25. Product: Instyle Lasting Finish Concealer - N 01 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+26. Product: Instyle Lasting Finish Concealer - N 03 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+27. Product: Instyle Lasting Finish Concealer - N 04 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+28. Product: Instyle Lasting Finish Concealer - N 08 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+29. Product: Instyle Matte Lipstick - 018 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+30. Product: Instyle Perfect Coverage Foundation - N 1 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+31. Product: Instyle Perfect Coverage Foundation - N 3 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+32. Product: Instyle Perfect Coverage Foundation - N 4 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+33. Product: Instyle Perfect Coverage Foundation - N 5 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+34. Product: Instyle Perfect Coverage Foundation - N 6 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+35. Product: Skin Editor Matte Eyeliner -  Carbon Black (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+36. Product: Bb Skin Editor Matte Finish Foundation - N 6 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+37. Product: Skin Editor Matte Foundation - N 03 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+38. Product: Skin Editor Matte Foundation - N 04 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+39. Product: Skin Twin Cover Foundation - N 002 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+40. Product: Skin Twin Cover Foundation - N 004 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+41. Product: Supernova Volume Lip Gloss - N 05 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+42. Product: Sensitive Stylo Lipstick - N 01 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+43. Product: Sensitive Stylo Lipstick - N 05 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+44. Product: Focus Point Perfect Gleam Lipgloss - 101 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+45. Product: Focus Point Perfect Gleam Lipgloss - 111 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+46. Product: Instyle Extreme Matte Lip Paint - N 28 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+47. Product: Instyle Extreme Matte Lip Paint - N 31 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+48. Product: Instyle Eyebrow Mascara - N 4 - Coffee (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+49. Product: Instyle Lasting Finish Concealer - N 02 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+
+50. Product: Instyle Lasting Finish Concealer - N 06 (ID: Unknown)
+   Error: API Error: Status code 400
+   Details: {
+  "error": {
+    "code": 400,
+    "message": "* GenerateContentRequest.model: unexpected model name format\n",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+

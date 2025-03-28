@@ -1,0 +1,50 @@
+SEO UPDATE LOG - 2025-03-26 18:08:42
+================================================================================
+
+Total products processed: 10
+Successful updates: 0
+Failed updates: 10
+Execution time: 0:01:20.054511
+
+FAILED PRODUCTS:
+================================================================================
+1. Product: Unknown (ID: 37375)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37375 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B944B90>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+2. Product: Unknown (ID: 37513)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37513 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B945810>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+3. Product: Unknown (ID: 37517)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37517 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B946490>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+4. Product: Unknown (ID: 37521)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37521 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B947110>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+5. Product: Unknown (ID: 37525)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37525 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B7F7B10>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+6. Product: Unknown (ID: 37726)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37726 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B947890>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+7. Product: Unknown (ID: 37747)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37747 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B946990>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+8. Product: Unknown (ID: 37751)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37751 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B945810>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+9. Product: Unknown (ID: 37912)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37912 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B944E10>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
+10. Product: Unknown (ID: 37916)
+   Error: Error updating product
+   Details: HTTPSConnectionPool(host='sante.ae', port=443): Max retries exceeded with url: /wp-json/wc/v3/products/37916 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E8B7F7C50>: Failed to resolve 'sante.ae' ([Errno 11001] getaddrinfo failed)"))
+
